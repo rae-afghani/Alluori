@@ -1,0 +1,142 @@
+<mjml>
+  <mj-head>
+    <mj-raw>
+      <meta name="color-scheme" content="light dark">
+      <meta name="supported-color-schemes" content="light dark">
+    </mj-raw>
+
+    <mj-style>
+      * {
+        font-family: 'georgia', serif !important;
+      }
+
+      @media (prefers-color-scheme: dark) {
+
+        :root {
+          color-scheme: light dark;
+          supported-color-schemes: light dark;
+        }
+
+        .bg-dark {
+          background-color: #1b1b1b !important;
+        }
+
+        .bg-light {
+          background-color: #f1f1f1 !important;
+        }
+
+        .text-contrast-primary {
+          color: #f1f1f1 !important;
+        }
+
+        .text-contrast-secondary {
+          color: #f9f9f9 !important;
+        }
+
+        .btn-contrast {
+          container-background-color: #f9f9f9 !important;
+          color: #1b1b1b !important;
+        }
+
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#f1f1f1">
+    <mj-section css-class="bg-dark" background-color="#1b1b1b" padding="12px 4px">
+      <mj-column>
+        <mj-text css-class="text-contrast-primary" align="center" font-size="16px" color="#f9f9f9">Alluori ✦ Carry Your Roots</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px 4px" background-url="https://cdn.shopify.com/s/files/1/0910/4670/7518/files/Fajr_photoshoot1.png?v=1779172137" background-size="cover" background-repeat="no-repeat">
+      <mj-column>
+
+        <mj-image padding-left="6px" width="48px" align="left" src="https://cdn.shopify.com/s/files/1/0910/4670/7518/files/Alluori_Logo_White_noBG.png?v=1778034264" />
+
+        <mj-spacer height="400px"></mj-spacer>
+
+        <mj-text css-class="text-contrast-primary" color="#f9f9f9" padding-bottom="0" font-size="32px" font-family="georgia">Fajr</mj-text>
+        <mj-text css-class="text-contrast-secondary" color="#f1f1f1" font-size="16px">Samara Collection</mj-text>
+
+        <mj-spacer height="4px"></mj-spacer>
+
+        <mj-button css-class="btn-contrast" align="left" background-color="#f9f9f9" color="#1b1b1b" href="https://alluori.com/products/fajr?variant=52758736929086">Learn More</mj-button>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section css-class="bg-light" background-color="#f1f1f1" padding="24px 4px">
+
+      <mj-column>
+
+        <mj-text css-class="text-contrast-primary" color="#1b1b1b" align="center" font-size="24px" line-height="40px">It's <i>Fajr</i> Somewhere</mj-text>
+
+        <mj-text css-class="text-contrast-secondary" color="#1b1b1b" align="center" font-size="16px" line-height="24px">In Arabic, <i>Fajr</i> means <i>daybreak</i>. It's the quiet moment when the night begins to turn into morning.</mj-text>
+        <mj-text css-class="text-contrast-secondary" color="#1b1b1b" align="center" font-size="16px" line-height="24px">As part of the Samara Collection, the Fajr shoulder bag was designed for the moments that linger. The dinner that turns into conversation. The evening that carries you past midnight.</mj-text>
+
+        <mj-spacer height="16px"></mj-spacer>
+
+        <mj-image src="https://cdn.shopify.com/s/files/1/0910/4670/7518/files/fajr_front_back.png?v=1779179112" />
+
+        <mj-spacer height="16px"></mj-spacer>
+
+        <mj-text css-class="text-contrast-secondary" color="#1b1b1b" align="center" font-size="16px" line-height="24px">Like the rest of the Samara Collection, Fajr is handcrafted with top-grain leather and finished with a croc-embossed texture. </mj-text>
+
+        <mj-spacer height="16px"></mj-spacer>
+
+        <mj-image src="https://cdn.shopify.com/s/files/1/0910/4670/7518/files/fajr_in_side.png?v=1779179132" />
+
+        <mj-button css-class="btn-contrast" align="center" background-color="#1b1b1b" color="#f9f9f9" href="https://alluori.com/products/fajr?variant=52758736929086">Learn More</mj-button>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="24px 4px" background-url="https://cdn.shopify.com/s/files/1/0910/4670/7518/files/Fajr_photoshoot2.png?v=1779171804" background-size="cover" background-repeat="no-repeat">
+      <mj-column>
+
+        <mj-text padding-bottom="0" font-size="32px" color="#f9f9f9">Seize the Fajr</mj-text>
+        <mj-text font-size="16px" color="#f1f1f1">Samara Collection</mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+
+        <mj-button align="left" background-color="#f9f9f9" color="#1b1b1b" href="https://alluori.com/collections/samara">Get 30% Off</mj-button>
+
+        <mj-spacer height="800px"></mj-spacer>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section background-color="#1b1b1b">
+      <mj-column>
+
+        <mj-divider width="50%" padding-top="18px" padding-bottom="4px" border-width="0.5px" border-color="#f1f1f1"></mj-divider>
+
+        <mj-text align="center" color="#f9f9f9" font-size="16px">Grow With Us</mj-text>
+
+        <mj-social>
+          <mj-social-element name="instagram" href="https://www.instagram.com/alluori1/?hl=en"></mj-social-element>
+          <mj-social-element name="facebook" href="https://www.facebook.com/people/Alluori/61571382101441/"></mj-social-element>
+          <mj-social-element name="web" href="https://www.alluori.com/"></mj-social-element>
+        </mj-social>
+
+        <mj-divider width="50%" padding-top="16px" padding-bottom="4px" border-width="0.5px" border-color="#f1f1f1"></mj-divider>
+
+        <mj-text align="center" color="#f9f9f9" font-size="18px">Contact Us</mj-text>
+        <mj-text align="center" color="#f1f1f1" font-size="14px">
+          <a href="mailto:info@alluori.com" style="color: #f1f1f1; text-decoration: underline;">support@alluori.com</a>
+        </mj-text>
+        <mj-text align="center" color="#f1f1f1" font-size="14px">Monday - Saturday, 9am - 5pm CST</mj-text>
+
+        <mj-divider width="50%" padding-top="16px" padding-bottom="4px" border-width="0.5px" border-color="#f1f1f1"></mj-divider>
+
+        <mj-text align="center" font-size="12px" color="#f1f1f1">Alluori ✦ All Rights Reserved 2026</mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+  </mj-body>
+</mjml>
