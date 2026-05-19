@@ -1,0 +1,82 @@
+<mjml>
+  <mj-body>
+    <mj-section background-url="https://cdn.shopify.com/s/files/1/0910/4670/7518/files/Samara_photoshoot2.png?v=1778032093">
+      <mj-column>
+
+        <mj-image width="48px" src="https://cdn.shopify.com/s/files/1/0910/4670/7518/files/Alluori_Logo_White_noBG.png?v=1778034264" />
+
+        <mj-spacer height="500px"></mj-spacer>
+
+        <mj-text padding-bottom="0" font-size="32px" color="#f9f9f9" font-family="helvetica">Discover Sahar</mj-text>
+        <mj-text font-size="16px" color="#f1f1f1" font-family="helvetica">Samara Collection</mj-text>
+
+
+        <mj-spacer height="25px"></mj-spacer>
+
+        <mj-button align="left" background-color="#f9f9f9" color="#1b1b1b" font-family="helvetica" href="https://alluori.com/products/sahar?variant=52758735814974">Shop Now</mj-button>
+
+        <mj-spacer height="75px"></mj-spacer>
+
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section>
+
+      <mj-column>
+        <mj-spacer height="25px"></mj-spacer>
+
+
+        <mj-text align="center" font-size="16px" line-height="24px" color="#1b1b1b" font-family="helvetica">A reflection of the rhythm of Middle Eastern life. A culture where cafes, markets, and evenings linger long after sunset.</mj-text>
+        <mj-text align="center" font-size="16px" line-height="24px" color="#1b1b1b" font-family="helvetica">We paired a timeless structured silhouette with a center zipper compartment that divides the bag into two organized halves. The Sahar tote is designed to follow you seamlessly from day to night.</mj-text>
+        <mj-image src="https://cdn.shopify.com/s/files/1/0910/4670/7518/files/Sahar_outin.png?v=1778121658" />
+
+        <mj-button align="center" background-color="#1b1b1b" color="#f9f9f9" font-family="helvetica" href="https://alluori.com/products/sahar?variant=52758735814974">Learn More</mj-button>
+
+        <mj-spacer height="25px"></mj-spacer>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section background-url="https://cdn.shopify.com/s/files/1/0910/4670/7518/files/Sahar_campaign3.png?v=1778124764">
+      <mj-column>
+
+        </mj-image>
+
+        <mj-spacer height="50px"></mj-spacer>
+
+        <mj-text padding-bottom="0" font-size="32px" color="#f9f9f9" font-family="helvetica">The Mother's Day Gift</mj-text>
+        <mj-text font-size="16px" color="#f1f1f1" font-family="helvetica">Samara Collection</mj-text>
+        <mj-spacer height="25px"></mj-spacer>
+
+        <mj-button align="left" background-color="#f9f9f9" color="#1b1b1b" font-family="helvetica" href="https://alluori.com/collections/samara">Get 30% Off</mj-button>
+
+
+        <mj-spacer height="700px"></mj-spacer>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section background-color="#1b1b1b">
+      <mj-column>
+        <mj-text align="center" color="#f9f9f9">Friends with Benefits?</mj-text>
+
+        <mj-social>
+          <mj-social-element name="instagram" href="https://www.instagram.com/alluori1/?hl=en"></mj-social-element>
+          <mj-social-element name="facebook" href="https://www.facebook.com/people/Alluori/61571382101441/"></mj-social-element>
+        </mj-social>
+
+        <mj-text font-size="12px" color="#f1f1f1" font-family="helvetica">Alluori | All Rights Reserved 2026</mj-text>
+        <mj-text font-size="12px" color="#f1f1f1" font-family="helvetica">Alluori | All Rights Reserved 2026</mj-text>
+
+      </mj-column>
+
+
+
+    </mj-section>
+
+  </mj-body>
+</mjml>
